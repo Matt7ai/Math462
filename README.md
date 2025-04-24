@@ -1,5 +1,5 @@
 # Math462
-These are Projects I've built for a class I'm taking called Math462 at Claremont Graduate University
+These are Projects I've built for a class I'm taking called Math462- Math for Machine Learning at Claremont Graduate University
 
 I've uploaded several Machine learning projects that I worked on for this class.
 
